@@ -61,3 +61,24 @@ p {
 #more:link, #more:active, #more:hover, #more:visited {
 	color: rgb(23,131,187);
 }
+
+#more {
+	text-decoration: none;
+}
+
+#more:hover {
+	text-decoration: underline;
+}
+
+#press {
+	margin-bottom: 20px;
+}
+
+#press img {
+	border: 5px #ccc solid;
+  padding: 1px;
+}
+
+#press img:hover {
+	border: 5px rgb(111,127,122) solid
+}
