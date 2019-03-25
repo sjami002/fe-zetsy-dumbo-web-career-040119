@@ -46,3 +46,18 @@ header a:hover {
 	border: 5px solid #98ADA6;
   margin-top: 0;
 }
+
+section h2 {
+	color: rgb(111, 127, 122);
+  font-size: 2em;
+}
+
+p {
+	color: rgb(85, 85, 85);
+  font-size: 1em;
+  margin: 0 0 20px 0;
+}
+
+#more:link, #more:active, #more:hover, #more:visited {
+	color: rgb(23,131,187);
+}
