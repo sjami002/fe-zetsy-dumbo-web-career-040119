@@ -38,9 +38,11 @@ header a {
 	color: rgb(152,173,166);
 }
 
+header a:hover {
+	color: rgb(111,127,122);
+}
 
-
-
-
-
-
+#about img {
+	border: 5px solid #98ADA6;
+  margin-top: 0;
+}
