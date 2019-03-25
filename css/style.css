@@ -82,3 +82,8 @@ p {
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
+
+footer {
+  text-align: right;
+  font-size: 0.8em;
+}
